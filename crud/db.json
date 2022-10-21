@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Cápsula de cafeína",
+      "price": "4.68",
+      "id": 1
+    },
+    {
+      "name": "Whey Protein",
+      "price": "89.90",
+      "id": 2
+    },
+    {
+      "name": "Creatina",
+      "price": "112.99",
+      "id": 3
+    }
+  ]
+}
